@@ -1,5 +1,5 @@
 .skills__container{
-    grid-template-columns: repeat(3, 450px);
+    grid-template-columns: repeat(3, 420px);
     column-gap: 3rem;
     justify-content: center;
 }
@@ -21,13 +21,13 @@
 .skills__box{
     display: flex;
     justify-content: center;
-    column-gap: 2.5rem;
+    column-gap: 8rem;
 }
 
 .skills__group{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    column-gap: 5.2rem;
+    column-gap: 3.5rem;
     align-items: flex-start;
     row-gap: 3rem;
     margin: 2rem;
@@ -35,7 +35,7 @@
 
 .skills__data{
     display: flex;
-    column-gap: 0.6rem;
+    column-gap: 0.5rem;
 }
 
 .skills .bx-badge-check{
