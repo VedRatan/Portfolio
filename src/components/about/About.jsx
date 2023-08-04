@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css"
 import AboutImg from "../../assets/profile_pic.jpeg"
-import CV from "../../assets/VED_RATAN_IIIT_RESUME (1).pdf"
+import CV from "../../assets/Ved_Ratan_Resume.pdf"
 import Info from './Info'
 
 const About = () => {
@@ -19,9 +19,9 @@ const About = () => {
             <Info/>
 
             <p className="about__description">
-                Android Developer, DevOps practitioner,
-                , I have experience in dart java and also express
-                and also know about golang, I have created many projects
+                DevOps practitioner, Backend Developer, with 
+                knwoledge of Android. I have experience in golang, java, dart and also express
+                 I have created many projects
                  by combining different technologies.
             </p>
 

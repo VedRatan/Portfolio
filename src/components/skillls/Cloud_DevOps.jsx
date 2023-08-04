@@ -79,6 +79,16 @@ const Cloud_DevOps = () => {
 
         </div>
 
+        <div className="skills__data">
+          <i className="bx bx-badge-check"></i>
+
+          <div>
+            <h3 className="skills__name">EFK</h3>
+       
+          </div>
+
+        </div>
+
 
       </div>
     </div>
