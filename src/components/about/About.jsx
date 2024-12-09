@@ -20,7 +20,7 @@ const About = () => {
 
             <p className="about__description">
                 DevOps practitioner, Backend Developer, with 
-                knwoledge of Android. I have experience in golang, java, dart and also express
+                knowledge of Kubernetes. I have experience in golang, java, dart and also express
                  I have created many projects
                  by combining different technologies.
             </p>

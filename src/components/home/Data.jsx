@@ -58,8 +58,8 @@ const Data = () => {
         <h3 className="home__subtitle">
             DevOps Enthusiast
         </h3>
-        <p className="home__description">I'm a DevOps enthusiast based in India, and
-        also I'm a Android, Flutter Developer with a knowledge of backend and dedicated to my work</p>
+        <p className="home__description">I'm a developer based in India with a strong background in backend development. I have a keen interest in open-source contributions, Linux, Golang, Kubernetes, and distributed systems. I'm passionate about building scalable, efficient solutions and constantly improving my technical skills."
+</p>
 
         <a href="#contact" className="button button--flex">
             Say Hello
