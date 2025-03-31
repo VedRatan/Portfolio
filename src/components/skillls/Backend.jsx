@@ -27,7 +27,7 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Node Js</h3>
+              <h3 className="skills__name">C/C++</h3>
             </div>
           </div>
 
@@ -35,7 +35,7 @@ const Backend = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Express Js</h3>
+              <h3 className="skills__name">Sqlite</h3>
             </div>
           </div>
           <div className="skills__data">
