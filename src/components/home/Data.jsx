@@ -56,7 +56,7 @@ const Data = () => {
                 </svg>
         </h1>
         <h3 className="home__subtitle">
-            DevOps Enthusiast
+            Not (Just) Copy-Pasting
         </h3>
         <p className="home__description">I'm a developer based in India with a strong background in backend development. I have a keen interest in open-source contributions, Linux, Golang, Kubernetes, and distributed systems. I'm passionate about building scalable, efficient solutions and constantly improving my technical skills."
 </p>
