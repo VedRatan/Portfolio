@@ -133,8 +133,8 @@ const Qualifications = () => {
                 <h3 className="qualification__title">Project Contributor</h3>
                 <span className="qualification__subtitle">LFX, Nirmata</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>June 2023 -
-                  August 2023
+                  <i className="uil uil-calendar-alt"></i>June 2023 - August
+                  2023
                 </div>
               </div>
             </div>
@@ -144,8 +144,8 @@ const Qualifications = () => {
                 <h3 className="qualification__title">SWE Intern</h3>
                 <span className="qualification__subtitle">AccuKnox</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>October 2023 - 
-                  April 2024
+                  <i className="uil uil-calendar-alt"></i>October 2023 - April
+                  2024
                 </div>
               </div>
 
@@ -167,12 +167,26 @@ const Qualifications = () => {
                 <h3 className="qualification__title">SWE Intern</h3>
                 <span className="qualification__subtitle">Nirmata</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i>April 2024 - 
-                  October 2024
+                  <i className="uil uil-calendar-alt"></i>April 2024 - March
+                  2025
                 </div>
               </div>
             </div>
 
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">SWE</h3>
+                <span className="qualification__subtitle">Rakuten India</span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i>July 2025 - Present
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
           </div>
         </div>
       </div>
