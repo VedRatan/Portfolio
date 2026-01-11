@@ -9,7 +9,7 @@ const Cloud_DevOps = () => {
 
     <div className="skills__box">
       <div className="skills__group">
-        <div className="skills__data">
+        {/* <div className="skills__data">
           <i className="bx bx-badge-check"></i>
 
           <div>
@@ -17,9 +17,9 @@ const Cloud_DevOps = () => {
             
           </div>
 
-        </div>
+        </div> */}
 
-        <div className="skills__data">
+        {/* <div className="skills__data">
           <i className="bx bx-badge-check"></i>
 
           <div>
@@ -27,7 +27,7 @@ const Cloud_DevOps = () => {
         
           </div>
 
-        </div>
+        </div> */}
 
         <div className="skills__data">
           <i className="bx bx-badge-check"></i>
