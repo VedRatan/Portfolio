@@ -1,8 +1,7 @@
 import React from "react";
 import "./skills.css";
-import Frontend from "./Frontend"
 import Backend from "./Backend"
-import Cloud_DevOps from "./Cloud_DevOps";
+import CloudDevOps from "./CloudDevOps";
 const Skills = () => {
   return (
     <section className="skills section" id="skills">
@@ -11,7 +10,7 @@ const Skills = () => {
       <div className="skills__container container grid">
         {/* <Frontend/> */}
         <Backend/>
-        <Cloud_DevOps/>
+        <CloudDevOps/>
       </div>
     </section>
   );

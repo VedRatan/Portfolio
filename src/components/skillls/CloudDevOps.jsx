@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Cloud_DevOps = () => {
+const CloudDevOps = () => {
   return (
     <div className="skills__content">
     <h3 className="skills_title">
@@ -96,4 +96,4 @@ const Cloud_DevOps = () => {
   )
 }
 
-export default Cloud_DevOps
+export default CloudDevOps
